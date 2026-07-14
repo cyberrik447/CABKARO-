@@ -1,0 +1,6 @@
+{
+  "name": "Cabkaro",
+  "description": "Premium ride-booking application focusing exclusively on Sedan and SUV rides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
